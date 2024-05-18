@@ -150,7 +150,6 @@ root.after(1000, start_game)
 root.mainloop()
 ```
 
-¡Listo! Ahora tus compañeros podrán ejecutar el juego siguiendo estas instrucciones.
 
 ## Contribuciones
 
@@ -161,11 +160,3 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 3. Realiza tus cambios y haz commit de los mismos (`git commit -m 'Añadir nueva característica'`).
 4. Haz push a la rama (`git push origin feature/nueva-caracteristica`).
 5. Abre un Pull Request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo `LICENSE`.
-
----
-
-Este archivo README proporciona instrucciones claras y detalladas sobre cómo configurar y ejecutar el juego, asegurando que cualquier persona pueda seguirlas sin necesidad de ver el código fuente.
