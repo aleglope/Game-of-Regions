@@ -1,17 +1,17 @@
-# Juego de Adivinar Comarcas de Galicia
+🌍🎮 Guess the Regions of Galicia Game 🕹️
 
-## Descripción
+## Descripción.📜 
 
 Este proyecto es un juego interactivo en el que los jugadores deben adivinar las comarcas de Galicia en un mapa. El juego está desarrollado utilizando Python y la biblioteca Tkinter para la interfaz gráfica de usuario.
 
-## Requisitos
+## Requerimientos.📋
 
 Antes de ejecutar el juego, asegúrate de tener instaladas las siguientes dependencias:
 
-- Python 3.x
-- Tkinter
-- Pillow
-- Pandas
+- Python 3.x 🐍
+- Tkinter 🖼️
+- Pillow 🖼️
+- Pandas 🐼
 
 Puedes instalar las dependencias necesarias utilizando pip:
 
@@ -19,7 +19,7 @@ Puedes instalar las dependencias necesarias utilizando pip:
 pip install tkinter pillow pandas
 ```
 
-## Archivos necesarios
+## Archivos necesarios.📁
 
 Para que el juego funcione correctamente, necesitarás los siguientes archivos:
 
@@ -28,7 +28,7 @@ Para que el juego funcione correctamente, necesitarás los siguientes archivos:
 3. `comarcas1.gif`: Imagen del mapa de Galicia en formato GIF.
 4. `comarcas2.png` y `comarcas2.gif`: Imágenes utilizadas para la conversión y redimensionamiento.
 
-## Instrucciones de uso
+## Instrucciones de uso.🛠️
 
 ### Paso 1: Configuración del entorno
 
@@ -151,7 +151,7 @@ root.mainloop()
 ```
 
 
-## Contribuciones
+## Contribuciones🤝
 
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
