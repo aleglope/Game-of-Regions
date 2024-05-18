@@ -33,5 +33,5 @@ def show_image(path_to_image):
     canvas.bind("<Button-1>", get_x_and_y)
     root.mainloop()
 
-# Reemplaza 'path_to_your_image.png' con el camino al archivo de imagen que deseas abrir
+
 show_image(r'C:\Users\34692\PycharmProjects\CSV\juego de comarcas\comarcas1.png')
