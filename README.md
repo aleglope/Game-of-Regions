@@ -1,7 +1,3 @@
-Aquí tienes un archivo README detallado con las instrucciones paso a paso para poder ejecutar el juego de adivinar comarcas. Este archivo incluye información sobre la configuración necesaria, cómo iniciar el juego y otros aspectos importantes.
-
----
-
 # Juego de Adivinar Comarcas de Galicia
 
 ## Descripción
